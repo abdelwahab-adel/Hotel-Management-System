@@ -1,0 +1,7 @@
+.env
+storage/logs/*.log
+storage/cache/*
+!storage/cache/.gitkeep
+public/uploads/*
+!public/uploads/rooms/.gitkeep
+.DS_Store
